@@ -1,0 +1,2 @@
+gatsby build
+gulp
